@@ -1,0 +1,21 @@
+body {
+  background-color: mintcream;
+}
+
+header {
+  background-color: mediumaquamarine;
+}
+
+footer {
+  background-color: maroon;
+}
+
+#sidebar {
+  display: fixed;
+  height: 100vh;
+  width: 20vw;
+  background-color: palegoldenrod;
+}
+
+#main {
+}
