@@ -10497,3 +10497,11 @@ section.resume-section .resume-section-content {
   height: 3rem;
   margin-bottom: 1rem;
 }
+
+.screenshot-frame {
+  flex-basis: 36%;
+}
+
+.screenshot-description {
+  flex-basis: 64%;
+}
